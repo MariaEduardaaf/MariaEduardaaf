@@ -1,37 +1,70 @@
-<p align="center">My passion lies in overcoming considerable challenges through the application of technology<br><br> ranging from backend to frontend development.<strong>passionate to discover new stuffs</strong>I have a special affinity for exploring innovations and using them to design excellent solutions.</strong> I ❤️ solve monumental challenges through technology.</p>&nbsp;
+<div>
+<div align='left'>
+	
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariaeduardaaf) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaeduardaaf) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mariaeduardaaf) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MariaEduardaaf) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MariaEduardaaf) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mariaeduardaaf) 
+</div>
  
- &nbsp;
- &nbsp;
+<div align='right'>
+	
+[![](https://visitcount.itsvg.in/api?id=mariaeduardaaf&icon=2&color=12)](https://visitcount.itsvg.in)
+</div>
+</div>
+
+<div align="center">
+	
+# Welcome, i'am Maria Eduarda 🚀👩‍💻 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=737373&center=true&vCenter=true&random=false&width=435&lines=Software+Developer)](https://git.io/typing-svg)
+</div>
+
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+	<li style="margin-bottom: 5px;">
+	
+### 👩‍💻Programming enthusiast
+</li>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+	<li style="margin-bottom: 5px; ">👉Never stop Learning</li>
+	<li style="margin-bottom: 5px; ">👉Always focus on the essential</li>
+	<li style="margin-bottom: 5px; ">👉Problems are to be solved.</li>
+</ul>
+</ul>
+
+ ## 💻 Tech Stack
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vue" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Dart" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Flutter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 
+<div align="center">
+<div style="display: inline-block">
 
-## My Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mariaeduardaaf&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-#### Main Stack:
+## 📊 GitHub Stats
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-)&nbsp;
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaaf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Maria Eduarda github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaaf&show_icons=true&count_private=true&hide_border=true&title_color=d6d3d1&icon_color=f5f5f5&text_color=f5f5f5&bg_color=171717" />
+</div>
 
-#### Databases:
+## 🔝 Top Contributed Repo
 
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaeduardaaf&theme=dark&hide_border=false" alt="Maria Eduarda github stats" /> 
+</div>
 
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaEduardaaf&bg_color=171717&color=f5f5f5&line=d6d3d1&point=f5f5f5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
