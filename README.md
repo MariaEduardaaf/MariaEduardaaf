@@ -39,9 +39,6 @@
 <div align="center">
 <div style="display: inline-block">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mariaeduardaaf&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ## 📊 GitHub Stats
 
 <div align="center">  
