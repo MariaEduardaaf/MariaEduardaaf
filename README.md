@@ -45,4 +45,3 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaaf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Maria Eduarda github stats" /> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaEduardaaf&bg_color=171717&color=f5f5f5&line=d6d3d1&point=f5f5f5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
