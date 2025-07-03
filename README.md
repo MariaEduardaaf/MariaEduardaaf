@@ -1,18 +1,6 @@
-<div>
-<div align='left'>
-	
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariaeduardaaf) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaeduardaaf) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mariaeduardaaf) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MariaEduardaaf) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MariaEduardaaf) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mariaeduardaaf) 
-</div>
- 
 <div align='right'>
 	
 [![](https://visitcount.itsvg.in/api?id=mariaeduardaaf&icon=2&color=12)](https://visitcount.itsvg.in)
-</div>
 </div>
 
 <div align="center">
