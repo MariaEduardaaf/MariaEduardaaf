@@ -43,7 +43,6 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaaf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Maria Eduarda github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaaf&show_icons=true&count_private=true&hide_border=true&title_color=d6d3d1&icon_color=f5f5f5&text_color=f5f5f5&bg_color=171717" />
 </div>
 
 ## 🔝 Top Contributed Repo
