@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Olá, eu sou a Maria Eduarda! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+# Hey, I'm Maria Eduarda! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Vue.js+%7C+Flutter+%7C+TypeScript)](https://git.io/typing-svg)
 
@@ -17,22 +17,22 @@
 
 ---
 
-### 👩‍💻 Sobre Mim
+### 👩‍💻 About Me
 
-- 🔭 Desenvolvedora de Software
-- 🌱 Sempre aprendendo algo novo
-- 💡 Foco no essencial, problemas existem para serem resolvidos
-- 💬 Pergunte-me sobre **Vue.js, Flutter, TypeScript**
+- 🔭 Software Developer
+- 🌱 Always learning something new
+- 💡 Focus on the essential, problems exist to be solved
+- 💬 Ask me about **Vue.js, Flutter, TypeScript**
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| [**Portifolio**](https://github.com/MariaEduardaaf/Portifolio) | Meu site pessoal | `Vue 3` `Tailwind` `i18n` |
-| [**wishlist**](https://github.com/MariaEduardaaf/wishlist) | App de lista de desejos minimalista | `Vue` `TypeScript` |
-| [**playlistporter-website**](https://github.com/MariaEduardaaf/playlistporter-website) | Website do app PlaylistPorter | `Vue` `Responsive` |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Portifolio**](https://github.com/MariaEduardaaf/Portifolio) | My personal website | `Vue 3` `Tailwind` `i18n` |
+| [**wishlist**](https://github.com/MariaEduardaaf/wishlist) | Minimalist wishlist app | `Vue` `TypeScript` |
+| [**playlistporter-website**](https://github.com/MariaEduardaaf/playlistporter-website) | PlaylistPorter app website | `Vue` `Responsive` |
 
 ---
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🐍 Minhas Contribuições
+## 🐍 My Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MariaEduardaaf/MariaEduardaaf/output/github-snake-dark.svg" alt="Snake animation"/>
@@ -78,7 +78,7 @@
 
 ---
 
-## 🎧 Ouvindo Agora
+## 🎧 Listening Now
 
 <div align="center">
 
@@ -90,8 +90,8 @@
 
 <div align="center">
 
-### 🤝 Vamos nos conectar!
+### 🤝 Let's Connect!
 
-Me mande uma mensagem no [LinkedIn](https://www.linkedin.com/in/eduardaalvesfr/) 💬
+Send me a message on [LinkedIn](https://www.linkedin.com/in/eduardaalvesfr/) 💬
 
 </div>
