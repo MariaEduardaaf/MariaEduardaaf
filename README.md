@@ -60,10 +60,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariaeduardaaf&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mariaeduardaaf&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
