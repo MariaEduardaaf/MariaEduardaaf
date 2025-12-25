@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mariaeduardaaf&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mariaeduardaaf&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariaeduardaaf&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=mariaeduardaaf&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 ---
