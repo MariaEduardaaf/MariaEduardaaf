@@ -28,13 +28,11 @@
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-[![Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduardaaf&repo=Portifolio&theme=tokyonight)](https://github.com/MariaEduardaaf/Portifolio)
-[![wishlist](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduardaaf&repo=wishlist&theme=tokyonight)](https://github.com/MariaEduardaaf/wishlist)
-[![playlistporter-website](https://github-readme-stats.vercel.app/api/pin/?username=mariaeduardaaf&repo=playlistporter-website&theme=tokyonight)](https://github.com/MariaEduardaaf/playlistporter-website)
-
-</div>
+| Projeto | Descrição | Tech |
+|---------|-----------|------|
+| [**Portifolio**](https://github.com/MariaEduardaaf/Portifolio) | Meu site pessoal | `Vue 3` `Tailwind` `i18n` |
+| [**wishlist**](https://github.com/MariaEduardaaf/wishlist) | App de lista de desejos minimalista | `Vue` `TypeScript` |
+| [**playlistporter-website**](https://github.com/MariaEduardaaf/playlistporter-website) | Website do app PlaylistPorter | `Vue` `Responsive` |
 
 ---
 
@@ -58,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardaaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaaf&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariaeduardaaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariaeduardaaf&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaeduardaaf&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mariaeduardaaf&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -71,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariaeduardaaf&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mariaeduardaaf&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 ---
