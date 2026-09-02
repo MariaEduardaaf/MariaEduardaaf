@@ -8,7 +8,7 @@
 
 # Hey, I'm Maria Eduarda! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Vue.js+%7C+Flutter+%7C+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;React+Native+%7C+Next.js+%7C+TypeScript;Mobile+%C2%B7+Web+%C2%B7+Backend)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardaalvesfr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madufreire.com)
@@ -19,10 +19,11 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 Software Developer
+- 🔭 Independent software developer — I ship **mobile apps, web apps, SaaS and APIs** end to end
+- 🧩 Mostly **TypeScript**: React Native / Expo on mobile, Next.js on web, NestJS & Convex on the back
 - 🌱 Always learning something new
 - 💡 Focus on the essential, problems exist to be solved
-- 💬 Ask me about **Vue.js, Flutter, TypeScript**
+- 💬 Ask me about **React Native, Next.js, TypeScript, Convex, NestJS**
 
 ---
 
@@ -30,26 +31,50 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Paca Finance**](https://github.com/MariaEduardaaf/paca) | Couple finance app — web + mobile + blog in one monorepo | `Expo` `React` `Supabase` `Turborepo` |
+| [**Osprano**](https://github.com/MariaEduardaaf/Osprano) | Finds local businesses with weak web presence and drafts the outreach with AI | `Next.js 16` `Convex` `Clerk` `Claude` |
+| [**aifood**](https://github.com/MariaEduardaaf/aifood) | AI-assisted ordering & menu app | `Next.js` `Prisma` `TypeScript` |
 | [**Portifolio**](https://github.com/MariaEduardaaf/Portifolio) | My personal website | `Vue 3` `Tailwind` `i18n` |
-| [**wishlist**](https://github.com/MariaEduardaaf/wishlist) | Minimalist wishlist app | `Vue` `TypeScript` |
-| [**playlistporter-website**](https://github.com/MariaEduardaaf/playlistporter-website) | PlaylistPorter app website | `Vue` `Responsive` |
+
+> Most of my current client work lives in private repos — happy to walk you through it.
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vue" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Dart" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=for-the-badge&logo=react&logoColor=white)
+
+**Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Tooling**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<sub>Also worked with: Vue 3 · Flutter / Dart · MySQL</sub>
 
 ---
 
