@@ -1,9 +1,3 @@
-<div align="right">
-
-[![](https://visitcount.itsvg.in/api?id=mariaeduardaaf&icon=2&color=12)](https://visitcount.itsvg.in)
-
-</div>
-
 <div align="center">
 
 # Hey, I'm Maria Eduarda! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
@@ -11,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;React+Native+%7C+Next.js+%7C+TypeScript;Mobile+%C2%B7+Web+%C2%B7+Backend)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardaalvesfr/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madufreire.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-seven-omega-93.vercel.app)
 
 </div>
 
