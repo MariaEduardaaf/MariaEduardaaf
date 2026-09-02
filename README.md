@@ -1,5 +1,7 @@
 # Maria Eduarda | Full-Stack & Mobile Developer
 
+📍 Alicante, Spain
+
 Software developer who ships products end to end: mobile apps, web apps, APIs and the infrastructure under them. I work across the whole stack, from the first screen to the store release.
 
 My focus is the **TypeScript ecosystem**, using **React Native and Expo** on mobile, **Next.js** on the web, and **NestJS and Convex** on the back end to deliver products that go to production and stay there.
@@ -61,3 +63,4 @@ Most of my current client work lives in private repos. Happy to walk you through
 ### 🌐 Let's connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardaalvesfr/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat&logo=buffer&logoColor=white)](https://portifolio-seven-omega-93.vercel.app)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madualvesfr@gmail.com)
