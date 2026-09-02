@@ -54,12 +54,6 @@ Most of my current client work lives in private repos. Happy to walk you through
 
 ---
 
-### 📊 Stats
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mariaeduardaaf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariaeduardaaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
-
 ### 🌐 Let's connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardaalvesfr/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat&logo=buffer&logoColor=white)](https://portifolio-seven-omega-93.vercel.app)
